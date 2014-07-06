@@ -12,7 +12,7 @@ mrt add deb
 Basic usage
 -------------
 
-Add `.deb()` After the definition if your functions.
+Add `.deb()` After the definition of your functions.
 
 ```js
 var calculateSomething = function(cb) {
