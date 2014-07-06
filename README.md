@@ -20,6 +20,10 @@ calculateSomething = deb (cb) ->
   # ...
 ```
 
+----
+
+![](http://i.minus.com/jTPvPSSrVDLNW.jpg)
+
 Credits
 -----------
 Thanks to [@krasimir](https://github.com/krasimir) for the great debugging tool.
