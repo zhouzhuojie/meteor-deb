@@ -17,12 +17,15 @@ var calculateSomething = function(cb) {
 For coffeescript users, there is a global function `deb` and `debc`.
 ```coffeescript
 calculateSomething = deb (cb) ->
-    // ...
-    cb()
-    return somethingElse
+  # ...
 ```
 
-More
+Credits
 -----------
-
+Thanks to [@krasimir](https://github.com/krasimir) for the great debugging tool.
 Official Documentation for Deb.js: [https://github.com/krasimir/deb.js](https://github.com/krasimir/deb.js)
+
+
+LICENSE
+----------
+MIT
