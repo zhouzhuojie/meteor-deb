@@ -22,6 +22,18 @@ calculateSomething = deb (cb) ->
 
 ----
 
+Example
+-----------
+
+```js
+Template.hello.events({
+    'click input': function () {
+        console.log("You pressed the button");
+    }.deb()
+});
+
+```
+
 ![](http://i.minus.com/jTPvPSSrVDLNW.jpg)
 
 Credits
