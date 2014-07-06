@@ -1,7 +1,7 @@
 meteor-deb [![Build Status](https://travis-ci.org/zhouzhuojie/meteor-deb.svg?branch=master)](https://travis-ci.org/zhouzhuojie/meteor-deb)
 ================
 
-Deb.js for Meteor
+Deb.js for Meteor, a very userful tool for debugging in the browser. If you mark the function with `deb()`, and everytime you run it, it will log all the details including arguments, output and stacktraces of the function.
 
 Basic usage
 -------------
