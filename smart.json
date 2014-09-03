@@ -3,7 +3,7 @@
   "description": "Deb.js for Meteor, ~1.5K minimalistic JavaScript library for debugging in the browser",
   "homepage": "https://github.com/zhouzhuojie/meteor-deb",
   "author": "Zhuojie Zhou <zz@pycode.me> (http://pycode.me)",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "git": "https://github.com/zhouzhuojie/meteor-deb.git",
   "packages": {}
 }
