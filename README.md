@@ -6,7 +6,7 @@ Deb.js for Meteor, a very userful tool for debugging in the browser. If you mark
 Install
 -------------
 ```
-mrt add deb
+meteor add mrt:deb
 ```
 
 Basic usage
@@ -40,7 +40,7 @@ Template.hello.events({
 
 ```
 
-![](http://i.minus.com/jTPvPSSrVDLNW.jpg)
+![](https://camo.githubusercontent.com/4aa7d221e8366270d8bd13a5e439ccc1f1e79845/687474703a2f2f776f726b2e6b726173696d697274736f6e65762e636f6d2f6769742f6465626a732f6465626a732e6a7067)
 
 Credits
 -----------
